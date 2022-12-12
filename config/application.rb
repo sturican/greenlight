@@ -145,7 +145,7 @@ module Greenlight
     # DEFAULTS
 
     # Default branding image if the user does not specify one
-    config.branding_image_default = "https://mgsu.ru/logomgsu.svg"
+    config.branding_image_default = "https://www.clickon.ru/accel/static/i/newlogo1.png"
 
     # Default primary color if the user does not specify one
     config.primary_color_default = "#467fcf"

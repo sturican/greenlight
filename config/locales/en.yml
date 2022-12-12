@@ -311,7 +311,7 @@ en:
     email: Email
     submit: Submit
   go_back: Go back
-  greenlight: MGSU
+  greenlight: ClickON
   header:
     all_recordings: All Recordings
     dropdown:
@@ -337,7 +337,7 @@ en:
       start: Start searching...
   landing:
     about: "%{href} - conference"
-    welcome: Welcome to MGSU.
+    welcome: Welcome to ClickON.
     video: Watch our tutorial on using Greenlight
     upgrade: Show me how to upgrade to 2.0!
     version: We've released a new version of Greenlight, but your database isn't compatible.

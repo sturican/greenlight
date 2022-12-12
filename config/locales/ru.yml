@@ -310,7 +310,7 @@ ru:
     email: Электронная почта
     submit: Отправить
   go_back: Вернуться
-  greenlight: МГСУ
+  greenlight: КликОН
   header:
     all_recordings: Все записи
     dropdown:
@@ -336,7 +336,7 @@ ru:
       start: Искать...
   landing:
     about: "%{href} это удобно"
-    welcome: Добро пожаловать в конференции МГСУ.
+    welcome: Добро пожаловать в конференции КликОН.
     video: Ознакомьтесь с нашим учебником по использованию Greenlight
     upgrade: "Покажите мне, как обновить до 2.0!"
     version: "Мы выпустили новую версию Greenlight, но ваша база данных не совместима."
